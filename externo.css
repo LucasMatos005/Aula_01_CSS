@@ -1,0 +1,26 @@
+.DivA{
+    background-color: #8B4513;
+    width: 435px;
+    height: 435px;
+}
+.DivB{
+    background-color: #FF4500; 
+    width: 800px; 
+    height: 800px;
+}
+.Prf{
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-weight:lighter ;font-size: 35px;
+    color: #F0F8FF; 
+    background-color: #000000;
+}
+.DivC{
+    background-color: rgb(216,191,216); 
+    width: 25vw; 
+    height: 25vh;
+}
+.DivD{
+    width: 45vw; 
+    height: 67vh; 
+    background-color: #B0E0E6;
+}
