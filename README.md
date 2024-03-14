@@ -1,2 +1,2 @@
-# Aula_01_CSS
-Exercício de css
+# Aulas_CSS
+Exercícios de CSS
